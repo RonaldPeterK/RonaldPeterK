@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ronald Peter K!
 
 **`Full-Stack Developer | MERN Stack Expert | Web Designer | UI/UX Designer`**  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=RonaldPeterK&label=Profile%20views&color=0e75b6&style=flat)  
 ![Followers](https://img.shields.io/github/followers/RonaldPeterK?label=Followers&style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/RonaldPeterK?affiliations=OWNER%2CCOLLABORATOR&style=social)
@@ -52,9 +53,8 @@ Here are the technologies and tools I use to bring creative ideas to life:
 ---
 
 ## 📈 GitHub Stats:
-![Ronald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonaldPeterK&show_icons=true&theme=radical)  
+![Ronald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonaldPeterK&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RonaldPeterK&theme=radical&date_format=j%20M%5B%20Y%5D)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldPeterK&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RonaldPeterK&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 ---
 
@@ -63,7 +63,7 @@ I’m always happy to connect! Reach out to me on:
 
 - 📧 **Email**: [ronaldpeterservices@gmail.com](mailto:ronaldpeterservices@gmail.com)
 - 👔 **LinkedIn**: [RonaldPeterK](https://www.linkedin.com/in/ronald-peter-k)
-- 🌐 **Portfolio**: [ronaldpeterk.com](https://ronaldpeterk.com) //Still in progress.
+- 🌐 **Portfolio**: [ronaldpeterk.com](https://ronaldpeterk.com)  ~ **`Still in progress`**
   
 ---
 
