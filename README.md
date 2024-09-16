@@ -9,7 +9,7 @@
 
 Welcome to my GitHub profile! I’m a **Full-Stack Developer** passionate about building websites and web applications. I specialize in the **MERN stack** (MongoDB, Express, React, Node.js) and enjoy creating clean, responsive designs.
 
-- 🔭 **Currently Working On:** Improving my skills with **Next.js** and real-time applications.
+- 🔭 **Currently Working On:** Improving my skills with **Node.js** and real-time applications.
 - 🌟 **Open to Collaborations:** Love to work on new web projects or join exciting teams.
 - ⚡ **Fun Fact:** I enjoy combining tech and design to make things easy and fun to use.
 
