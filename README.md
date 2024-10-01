@@ -63,7 +63,7 @@ I’m always happy to connect! Reach out to me on:
 
 - 📧 **Email**: [ronaldpeterservices@gmail.com](mailto:ronaldpeterservices@gmail.com)
 - 👔 **LinkedIn**: [RonaldPeterK](https://www.linkedin.com/in/ronald-peter-k)
-- 🌐 **Portfolio**: [ronaldpeterk.com](https://ronaldpeterk.com)  ~ **`Still in progress`**
+- 🌐 **Portfolio**: [ronaldpeterk.com](https://ronaldpeterk-portfolio.vercel.app/)  ~ **`Still in progress`**
   
 ---
 
