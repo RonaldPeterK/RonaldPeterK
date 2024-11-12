@@ -47,7 +47,6 @@ Here are the technologies and tools I use to bring creative ideas to life:
 
 ## 🌟 Highlighted Projects:
 - **🛒 E-Commerce Websites:** Built full-featured online stores with payment integration.
-- **💬 Real-Time Applications:** Developed chat apps and tools using React and Node.js.
 - **🎨 UI/UX Enhancements:** Designed user-friendly and responsive interfaces for better user experiences.
 
 ---
